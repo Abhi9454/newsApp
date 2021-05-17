@@ -1,16 +1,14 @@
 # newsapp
 
-A new Flutter project.
+A flutter app UI for news app which fetch top 20 news from NewsApi.org.
 
-## Getting Started
+# Features
+1. MVVM Architecture.
+2. Listeners and Providers
+3. Splash Screen Animation
+4. Pagination of News articles.
+5. News open in Web Browser.
+6. Tabs to extend functionality.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Demo Video : https://youtu.be/DE4Xy5iYW-o
